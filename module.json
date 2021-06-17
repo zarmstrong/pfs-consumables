@@ -9,14 +9,15 @@
   "scripts": [],  
   "esmodules": [],
   "packs": [
-  {
-    "label": "PFS Consumables",
-    "entity": "JournalEntry",
-    "name": "PFS-Consumables",
-    "path": "./packs/pfs-consumables.db",
-    "system": "pf2e",
-    "package": "PFSConsumables"
-  },
+    {
+      "label": "PFS Consumables",
+      "entity": "JournalEntry",
+      "name": "PFS-Consumables",
+      "path": "./packs/pfs-consumables.db",
+      "system": "pf2e",
+      "package": "PFSConsumables"
+    }
+  ],
   "systems": ["pf2e"],
   "url": "https://github.com/zarmstrong/pfs-consumables",
   "manifest": "https://raw.githubusercontent.com/zarmstrong/pfs-consumables/main/module.json",
