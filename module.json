@@ -1,0 +1,29 @@
+{
+  "name": "PFSConsumables",
+  "title": "PFS Consumables",
+  "description": "This module contains easily drag & drop PFS consumable journal entries.",
+  "author": "slate",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.7.6",
+  "compatibleCoreVersion": "0.8.7",
+  "scripts": [],  
+  "esmodules": [],
+  "packs": [
+  {
+    "label": "PFS Consumables",
+    "entity": "JournalEntry",
+    "name": "PFS-Consumables",
+    "path": "./packs/pfs-consumables.db",
+    "system": "pf2e",
+    "package": "PFSConsumables"
+  },
+  "systems": ["pf2e"],
+  "url": "https://github.com/zarmstrong/pfs-consumables",
+  "manifest": "https://raw.githubusercontent.com/zarmstrong/pfs-consumables/main/module.json",
+  "download": "https://github.com/zarmstrong/pfs-consumables/releases/download/PFSConsumables-1.0.0/PFSConsumables-1.0.0.zip",
+  "license": "MIT",
+  "readme": "https://github.com/zarmstrong/pfs-consumables",
+  "bugs": "https://github.com/zarmstrong/pfs-consumables/issues",
+  "allowBugReporter": true,
+  "changelog": "https://github.com/zarmstrong/pfs-consumables/blob/main/CHANGELOG.md"  
+}
