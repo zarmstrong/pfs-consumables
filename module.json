@@ -1,6 +1,6 @@
 {
   "name": "pfsconsumables",
-  "title": "PFS Consumables",
+  "title": "PFS Consumables Compendia",
   "description": "This module contains easily drag & drop PFS consumable journal entries.",
   "author": "slate",
   "version": "1.1.0",
@@ -8,7 +8,7 @@
   "compatibleCoreVersion": "0.8.7",
   "packs": [
     {
-      "label": "PFS Consumables",
+      "label": "PFS Consumables Compendia",
       "entity": "JournalEntry",
       "name": "journals",
       "path": "packs/pfs-consumables.db",
