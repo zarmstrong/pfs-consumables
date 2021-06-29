@@ -23,6 +23,8 @@
   "license": "MIT",
   "readme": "https://github.com/zarmstrong/pfs-consumables",
   "bugs": "https://github.com/zarmstrong/pfs-consumables/issues",
-  "allowBugReporter": true,
+  "flags": {
+    "allowBugReporter": true
+  },
   "changelog": "https://github.com/zarmstrong/pfs-consumables/blob/main/CHANGELOG.md"  
 }
