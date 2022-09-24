@@ -3,9 +3,33 @@
   "title": "PFS Consumables Compendia",
   "description": "This module contains easily drag & drop PFS consumable journal entries.",
   "author": "slate",
-  "version": "1.1.2",
-  "minimumCoreVersion": "0.7.6",
-  "compatibleCoreVersion": "0.8.8",
+  "authors": [
+    {
+      "name": "Zach Armstrong (SLATE)",
+      "url": "https://github.com/zarmstrong",
+      "discord": "SLATE#0001",
+      "patreon": "slatesfoundrystuff",
+      "ko-fi": "SLATE"
+    }
+  ],
+  "version": "1.10.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10.286"
+  },
+  "relationship": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "manifest": "https://github.com/foundryvtt/pf2e/releases/download/latest/system.json",
+        "compatibility": {
+          "minimum": "4.0.0",
+          "verified": "4.0.5"
+        }
+      }
+    ]
+  },
   "packs": [
     {
       "label": "PFS Consumables Compendia",
@@ -16,14 +40,15 @@
       "package": "pfsconsumables"
     }
   ],
-  "systems": ["pf2e"],
+  "styles": [],
   "url": "https://github.com/zarmstrong/pfs-consumables",
   "manifest": "https://raw.githubusercontent.com/zarmstrong/pfs-consumables/main/module.json",
-  "download": "https://github.com/zarmstrong/pfs-consumables/releases/download/PFSConsumables-1.1.2/PFSConsumables-1.1.2.zip",
+  "download": "https://github.com/zarmstrong/pfs-consumables/releases/download/PFSConsumables-1.10.0/PFSConsumables-1.10.0.zip",
   "license": "MIT",
   "readme": "https://github.com/zarmstrong/pfs-consumables",
   "bugs": "https://github.com/zarmstrong/pfs-consumables/issues",
   "flags": {
+    "manifestPlusVersion": "1.2.0",
     "allowBugReporter": true
   },
   "changelog": "https://github.com/zarmstrong/pfs-consumables/blob/main/CHANGELOG.md"  
