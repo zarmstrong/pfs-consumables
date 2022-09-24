@@ -1,3 +1,7 @@
+## 1.10.3 (Sep 24, 2022)
+
+* Updated formatting of every table to match
+
 ## 1.10.2 (Sep 24, 2022)
 
 * Fixed bug in build/deploy script
