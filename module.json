@@ -12,10 +12,11 @@
       "ko-fi": "SLATE"
     }
   ],
-  "version": "1.10.1",
+  "version": "1.10.2",
   "compatibility": {
     "minimum": "10",
-    "verified": "10.286"
+    "verified": "10.286",
+    "maximum": "10"
   },
   "relationship": {
     "systems": [
@@ -43,7 +44,7 @@
   "styles": [],
   "url": "https://github.com/zarmstrong/pfs-consumables",
   "manifest": "https://raw.githubusercontent.com/zarmstrong/pfs-consumables/main/module.json",
-  "download": "https://github.com/zarmstrong/pfs-consumables/releases/download/PFSConsumables-1.10.1/PFSConsumables-1.10.1.zip",
+  "download": "https://github.com/zarmstrong/pfs-consumables/releases/download/PFSConsumables-1.10.2/PFSConsumables-1.10.2.zip",
   "license": "MIT",
   "readme": "https://github.com/zarmstrong/pfs-consumables",
   "bugs": "https://github.com/zarmstrong/pfs-consumables/issues",
