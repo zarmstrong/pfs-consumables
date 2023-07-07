@@ -12,11 +12,11 @@
       "ko-fi": "SLATE"
     }
   ],
-  "version": "1.10.3",
+  "version": "1.11",
   "compatibility": {
     "minimum": "10",
-    "verified": "10.286",
-    "maximum": "10"
+    "verified": "11",
+    "maximum": "11"
   },
   "relationship": {
     "systems": [
@@ -26,7 +26,7 @@
         "manifest": "https://github.com/foundryvtt/pf2e/releases/download/latest/system.json",
         "compatibility": {
           "minimum": "4.0.0",
-          "verified": "4.0.5"
+          "verified": "5.0.5"
         }
       }
     ]
@@ -36,11 +36,12 @@
       "label": "PFS Consumables Compendia",
       "entity": "JournalEntry",
       "name": "journals",
-      "path": "packs/pfs-consumables.db",
+      "path": "packs/pfs-consumables",
       "system": "pf2e",
+	  "type": "JournalEntry",
       "package": "pfsconsumables"
     }
-  ],
+ ], 
   "styles": [],
   "url": "https://github.com/zarmstrong/pfs-consumables",
   "manifest": "https://raw.githubusercontent.com/zarmstrong/pfs-consumables/main/module.json",
@@ -52,5 +53,5 @@
     "manifestPlusVersion": "1.2.0",
     "allowBugReporter": true
   },
-  "changelog": "https://github.com/zarmstrong/pfs-consumables/blob/main/CHANGELOG.md"  
-}
+  "changelog": "https://github.com/zarmstrong/pfs-consumables/blob/main/CHANGELOG.md"
+  }
