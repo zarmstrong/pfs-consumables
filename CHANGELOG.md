@@ -1,3 +1,7 @@
+## 1.10.4
+
+* v11 support
+
 ## 1.10.3 (Sep 24, 2022)
 
 * Updated formatting of every table to match
