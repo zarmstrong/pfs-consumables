@@ -1,6 +1,7 @@
-## 1.10.4
+## 1.11.0 (Aug 28, 2023)
 
-* v11 support
+* Added v11 support
+* specified pack ownership for players
 
 ## 1.10.3 (Sep 24, 2022)
 
