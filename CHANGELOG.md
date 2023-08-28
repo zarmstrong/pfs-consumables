@@ -1,3 +1,8 @@
+## 1.11.0 (Aug 28, 2023)
+
+* Added v11 support
+* specified pack ownership for players
+
 ## 1.10.3 (Sep 24, 2022)
 
 * Updated formatting of every table to match
